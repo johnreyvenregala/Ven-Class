@@ -1,0 +1,8 @@
+{
+  "name": "VEN CLASS",
+  "short_name": "VEN",
+  "display": "standalone",
+  "background_color": "#07111f",
+  "theme_color": "#07111f",
+  "start_url": "./"
+}
